@@ -1,0 +1,10 @@
+Package: com.shiftcmdk.bookmarkicons
+Name: BookmarkIcons
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Set custom icons for Safari bookmarks.
+Maintainer: shiftcmdk
+Author: shiftcmdk
+Section: Tweaks
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.bookmarkicons
